@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DialWithInputControls</string>
+    <string name="enter_phone_number_hint">Enter Phone Number</string>
+</resources>
